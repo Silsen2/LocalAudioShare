@@ -1,4 +1,4 @@
-Share audio of your computer:
+Share audio of your computer on your local network:
 
 About the host:
 On linux use pulseAudio or similar for changing the capturing source.
